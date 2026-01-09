@@ -26,7 +26,7 @@ This project investigates the use of Generative Adversarial Networks (GANs) to a
 pip install -r requirements.txt
 jupyter notebook
 
----
+
 
 ## 📦 requirements.txt
 torch
@@ -37,10 +37,9 @@ matplotlib
 seaborn
 jupyter
 
+```
 
----
-
-# 2️⃣ REPORT (PDF) 
+# REPORT (PDF) 
 
 
 
